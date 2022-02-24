@@ -1,0 +1,13 @@
+total 136
+drwxr-xr-x   12 wilson  staff    384 Feb 24 11:04 .
+drwx------@ 104 wilson  staff   3328 Feb 23 22:09 ..
+drwxr-xr-x    3 wilson  staff     96 Feb 23 15:48 .vscode
+-rwxr-xr-x    1 wilson  staff  50432 Feb 24 11:04 index
+-rw-r--r--    1 wilson  staff   4968 Feb 24 11:03 index.c
+drwxr-xr-x    3 wilson  staff     96 Feb 23 06:55 index.dSYM
+-rw-r--r--    1 wilson  staff     92 Feb 24 11:04 out.txt
+-rw-r--r--    1 wilson  staff      0 Feb 24 10:52 output.txt
+-rw-r--r--    1 wilson  staff      0 Feb 24 10:54 output2.txt
+-rw-r--r--    1 wilson  staff      0 Feb 24 10:54 output3.txt
+-rw-r--r--    1 wilson  staff      0 Feb 24 10:59 output4.txt
+-rw-r--r--    1 wilson  staff      7 Feb 24 11:02 output5.txt
